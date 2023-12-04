@@ -102,7 +102,7 @@ The dataset describes listings through multiple columns:
 3. Initialise the venv:
     ```bash
     python -m venv .venv
-    .venv\Scripts\activate OU source .venv/bin/activate
+    .venv\Scripts\activate OR source .venv/bin/activate
     pip install -r requirements.txt
     ```
 
